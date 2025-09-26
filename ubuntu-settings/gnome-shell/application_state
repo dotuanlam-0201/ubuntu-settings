@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="chrome-nlalbmkafgmoifbeooblidblkmlhhpnc-Default.desktop" score="3629.4813386066817" last-seen="1758858938"/>
+    <application id="google-chrome.desktop" score="23391.741682239805" last-seen="1758858844"/>
+    <application id="usb-creator-gtk.desktop" score="0.0703125" last-seen="1757304537"/>
+    <application id="org.gnome.tweaks.desktop" score="0.33203125" last-seen="1757323544"/>
+    <application id="gnome-session-properties.desktop" score="0" last-seen="1757302620"/>
+    <application id="org.gnome.Evince.desktop" score="2.7562713660299778" last-seen="1758852938"/>
+    <application id="org.gnome.FileRoller.desktop" score="0.00390625" last-seen="1758858044"/>
+    <application id="org.gnome.gedit.desktop" score="0.010746970772743225" last-seen="1758617201"/>
+    <application id="software-properties-gtk.desktop" score="0" last-seen="1756871437"/>
+    <application id="libreoffice_calc.desktop" score="0.0078125" last-seen="1757318398"/>
+    <application id="gnome-control-center.desktop" score="1.4644380595079989" last-seen="1758697814"/>
+    <application id="gimp_gimp.desktop" score="2" last-seen="1758687866"/>
+    <application id="libreoffice_libreoffice.desktop" score="0" last-seen="1757318391"/>
+    <application id="org.gnome.eog.desktop" score="1.1251389309763908" last-seen="1758687881"/>
+    <application id="gnome-bluetooth-panel.desktop" score="0" last-seen="0"/>
+    <application id="savedesktop_savedesktop.desktop" score="7" last-seen="1758858546"/>
+    <application id="org.gnome.Nautilus.desktop" score="9.9387137778405563" last-seen="1758858535"/>
+    <application id="pgadmin4.desktop" score="0.78090882301330566" last-seen="1758523880"/>
+    <application id="chrome-akpamiohjfcnimfljfndmaldlcfphjmp-Default.desktop" score="16.463193297386169" last-seen="1758529750"/>
+    <application id="org.gnome.Terminal.desktop" score="107.00032883418682" last-seen="1758858978"/>
+    <application id="snap-store_ubuntu-software.desktop" score="5.04931640625" last-seen="1758858531"/>
+    <application id="postman_postman.desktop" score="7.7307224273681641e-05" last-seen="1758787634"/>
+    <application id="thunderbird.desktop" score="0.78125047688085036" last-seen="1758699449"/>
+    <application id="code.desktop" score="7265.768914828046" last-seen="1758857455"/>
+    <application id="org.gnome.DiskUtility.desktop" score="0.02734375" last-seen="1757302174"/>
+    <application id="firefox_firefox.desktop" score="0" last-seen="1758527179"/>
+    <application id="org.gnome.font-viewer.desktop" score="0.00146484375" last-seen="1756873192"/>
+  </context>
+</application-state>
